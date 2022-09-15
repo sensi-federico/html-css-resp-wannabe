@@ -172,6 +172,10 @@ img {
         width: 90%;    
     }
 
+    .steps .text {
+        font-size: 14px;
+    }
+
     .why-us p {
         font-size: 14px;
     }
